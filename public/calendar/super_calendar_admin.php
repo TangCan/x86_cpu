@@ -1,5 +1,4 @@
 <?php
-
 //////////////////////////////////////
 // add and remove users here
 $vu = array('richard' => '20070814'); 
